@@ -1,6 +1,6 @@
 ---
 templateKey: about-page
-title: About our values Coy
+title: About our values Guys
 ---
 
 ## Shade-grown coffee
